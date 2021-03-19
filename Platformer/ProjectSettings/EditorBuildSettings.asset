@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/General/MainMenu.unity
+    guid: 5fd08be65ec08cd46a64dcdc1ca9fff7
+  - enabled: 1
+    path: Assets/Scenes/General/Shop.unity
+    guid: e0ec748b8f2372c4ea53de5cf4c46d4a
+  - enabled: 1
+    path: Assets/Scenes/General/Setting.unity
+    guid: d43cde30afb36854a80316e70dc393b9
+  - enabled: 1
+    path: Assets/Scenes/General/Credits.unity
+    guid: 40fb8c0c8fd11474ea4fac22755980ba
+  - enabled: 1
+    path: Assets/Scenes/General/ChooseLocation.unity
+    guid: ddd3e788dd962b340a86efa845ed18c7
+  - enabled: 1
+    path: Assets/Scenes/Purple/Purple.unity
+    guid: b7146732277244e4193d176bc51cbe10
+  - enabled: 1
+    path: Assets/Scenes/Purple/FirstCutScenes.unity
+    guid: 5fac8ce9a951a1e4ea1a6662adc5a678
+  - enabled: 1
+    path: Assets/Scenes/Purple/FirstCutScenesRus.unity
+    guid: 365c833c1b2867b4e8ae705ab13b3e14
+  - enabled: 1
+    path: Assets/Scenes/Purple/Purple_1.unity
+    guid: 179a3b53a5446df4e98891c8d73e4df9
+  - enabled: 1
+    path: Assets/Scenes/Purple/Purple_2.unity
+    guid: d3de8281d9333f449b8eddce779b7f47
+  - enabled: 1
+    path: Assets/Scenes/Purple/Purple_3.unity
+    guid: 4b716032fb0acb649a6240f2683a0b63
+  - enabled: 1
+    path: Assets/Scenes/Purple/Purple_4.unity
+    guid: 5a0bdfb768aadf94aa900bc35c566f9b
+  - enabled: 1
+    path: Assets/Scenes/Purple/Purple_5.unity
+    guid: 8dcabf0af27b474458be7396e0999f7e
+  - enabled: 1
+    path: Assets/Scenes/Purple/Purple_6.unity
+    guid: 473cb7c5cbdccff4fb9a5baf1a4e7c79
+  - enabled: 1
+    path: Assets/Scenes/Purple/Purple_7.unity
+    guid: c10cac9a31c99214d8efa57641189037
+  - enabled: 1
+    path: Assets/Scenes/Purple/Purple_8.unity
+    guid: 2810b0427715cdf429726c3cffe43114
+  - enabled: 1
+    path: Assets/Scenes/Purple/Purple_9.unity
+    guid: 23bcd24061e809047bae128ce0ba83e5
+  - enabled: 1
+    path: Assets/Scenes/Purple/Purple_10.unity
+    guid: b0e7fe501c571f74d95cfd38907b2c6c
+  - enabled: 1
+    path: Assets/Scenes/Purple/SecondCutScene.unity
+    guid: 0a89bf4d49eb0f0478eceee1c7e214e3
+  - enabled: 1
+    path: Assets/Scenes/Purple/SecondCutSceneRus.unity
+    guid: 0fd254fbd12cf4d4d816c719f5d6f0d5
+  - enabled: 1
+    path: Assets/Scenes/Forest/Forest.unity
+    guid: 27eee7b9fae9c224a91f1121b14f3cfa
+  - enabled: 1
+    path: Assets/Scenes/Forest/Forest_1.unity
+    guid: a9ff40b89d711d8489d9bd21b2ee2af2
+  - enabled: 1
+    path: Assets/Scenes/Forest/Forest_2.unity
+    guid: b581079e081fe2d42871dfe7acd38506
+  - enabled: 1
+    path: Assets/Scenes/Forest/Forest_3.unity
+    guid: ef164ca6a45ad034db07478079ad4446
+  - enabled: 1
+    path: Assets/Scenes/Forest/Forest_4.unity
+    guid: d4caa995a1d734943b6df397747d750b
+  - enabled: 1
+    path: Assets/Scenes/Forest/Forest_5.unity
+    guid: f05f571443f8fda478de013834feb946
+  - enabled: 1
+    path: Assets/Scenes/Forest/Forest_6.unity
+    guid: 5bfe0d6c0f3452f478cf3ad0e54680d6
+  - enabled: 1
+    path: Assets/Scenes/Forest/Forest_7.unity
+    guid: 93ee9d78054295b44b1fe060ecd6d194
+  - enabled: 1
+    path: Assets/Scenes/Forest/Forest_8.unity
+    guid: eaddced6dff2b754b987a594c7436d65
+  - enabled: 1
+    path: Assets/Scenes/Forest/Forest_9.unity
+    guid: 016f5e86d69d80a41a31898bcf4b84b0
+  - enabled: 1
+    path: Assets/Scenes/Forest/Forest_10.unity
+    guid: 8316d3810304fb9469abb10913c9c2f3
+  - enabled: 1
+    path: Assets/Scenes/Forest/ThirdCutScene.unity
+    guid: fd159ed401b320c41a531aaa295eb216
+  - enabled: 1
+    path: Assets/Scenes/Lava/Lava.unity
+    guid: b2600c3b8697f3a44832ba9a781efad0
+  - enabled: 1
+    path: Assets/Scenes/Lava/Lava_1.unity
+    guid: 28dc5640963bba24c9161fa2c00950dd
+  - enabled: 1
+    path: Assets/Scenes/Lava/Lava_2.unity
+    guid: 90692014953842b43ad1553cb6a0efbd
+  - enabled: 1
+    path: Assets/Scenes/Lava/Lava_3.unity
+    guid: fb8f720d20a0dbd4f9f61d9fb83310e4
+  - enabled: 1
+    path: Assets/Scenes/Lava/Lava_4.unity
+    guid: 7c21b6290e0ae6244969b134a9d552c5
+  - enabled: 1
+    path: Assets/Scenes/Lava/Lava_5.unity
+    guid: 00c609cd360f93a45afe4f96334aa4a6
+  - enabled: 1
+    path: Assets/Scenes/Lava/Lava_6.unity
+    guid: 9e3655d51bba54f40a31cf328b5e553c
+  - enabled: 1
+    path: Assets/Scenes/Lava/Lava_7.unity
+    guid: 83997e6da990b574db1f916f3603935a
+  - enabled: 1
+    path: Assets/Scenes/Lava/Lava_8.unity
+    guid: 11bbee1c5d703264aaf1f5d0dc6ca53a
+  - enabled: 1
+    path: Assets/Scenes/Lava/Lava_9.unity
+    guid: 3f8bc271c0ba6f045abfa8e2b6d510df
+  - enabled: 1
+    path: Assets/Scenes/Lava/FourthCutScene.unity
+    guid: f31ed23edf1ca224895d504041b43a6a
+  - enabled: 1
+    path: Assets/Scenes/Lava/FourthCutSceneRus.unity
+    guid: 5f4a4204043141744801e03cf2596f7b
+  - enabled: 1
+    path: Assets/Scenes/Lava/FifthCutScene.unity
+    guid: a128c37fd92244845a2346785382d1cf
+  - enabled: 1
+    path: Assets/Scenes/Lava/FifthCutSceneRus.unity
+    guid: d86a19ad4a6d95a4787f02f4cb355607
+  - enabled: 1
+    path: Assets/Scenes/Lava/Lava_10.unity
+    guid: 57687954b65ed7b44990febd9fa6ab87
+  - enabled: 1
+    path: Assets/Scenes/Lava/LastCutScene.unity
+    guid: 2cc11b3af293041419bd586e5e73ee53
+  - enabled: 1
+    path: Assets/Scenes/Lava/LastCutSceneRus.unity
+    guid: 01e4bb56d475af64c9504f6bda955efd
+  - enabled: 1
+    path: Assets/Scenes/General/Titres.unity
+    guid: d082b640c56a127419757b6f55d04d23
+  - enabled: 1
+    path: Assets/Scenes/Forest/ThirdCutSceneRus.unity
+    guid: 9d0a8678742d9e24cb2f60a4ccf10893
+  m_configObjects: {}
